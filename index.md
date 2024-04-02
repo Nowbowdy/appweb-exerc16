@@ -5,18 +5,18 @@ layout: home
 hero:
   name: "Exercice 16"
   text: "Revue de code documentée"
-  tagline: My great project tagline
+  tagline: Par Mikaël Charette et Zachary Vandermeerschen
   actions:
     - theme: brand
-      text: Mikael
+      text: Mikaël Charette
       link: /mikael-charette
     - theme: alt
-      text: Zachary
+      text: Zachary Vandermeerschen
       link: /zachary-vandermeerschen
 
 features:
-  - title: Nom 1
-    details: Zachary Vandermeerschen
-  - title: Nom 2
-    details: Mikael Charette
+  - title: Mikaël Charette
+    details: Revue de code de la version final du TP1
+  - title: Zachary Vandermeerschen
+    details: Revue de code de la version final du TP1
 ---
